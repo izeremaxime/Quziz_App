@@ -1,13 +1,43 @@
-# React + Vite
+ZumApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive web-based quiz application built to test knowledge while providing an engaging user experience.
+The app allows users to answer questions, track their score, and receive instant feedback.  
 
-Currently, two official plugins are available:
+## 🚀 Features  
+-  Multiple-choice questions  
+-  Instant feedback on answers  
+-  Score tracking at the end of the quiz  
+-  Restart/retake option  
+-  Clean and user-friendly interface  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack  
+- React.js ( Component-based UI and state management )
+- JavaScript (ES6),  Quiz logic and interactivity  
+- HTML5: Page structure  
+- CSS3 ( Styling and responsive design )
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Quziz_App
+
+## 📂 Project Structure  
+ZumApp/
+│── index.html # Main HTML file
+│── style.css # Styling file
+│── script.js # Quiz logic and interactivity
+
+
+Start the quiz and test your knowledge!
+
+🎯 Future Improvements
+Timer for each question
+
+Categories and difficulty levels
+
+Saving scores using LocalStorage or a database
+
+Adding sound effects and animations
+
+📸 Preview
+(Add a screenshot of your app here if possible)
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to fork this project and submit a pull request.
